@@ -7,7 +7,7 @@
 Proyecto de Big Data enfocado en la predicción de riesgo de siniestros en operaciones logísticas mediante modelos de Machine Learning.
 
 ## 📌 Descripción
-
+Aqui encuentras todo el resumen del proyecto y la justificación economica de realizarlo: https://estefacervera.github.io/Especializacion_BigData_Unaula/
 Este proyecto desarrolla un sistema predictivo capaz de estimar la probabilidad de riesgo de un cliente basado en su comportamiento histórico.
 
 Se procesan más de 1 millón de registros utilizando Apache Spark en Databricks, implementando una arquitectura tipo Medallion (Bronze, Silver, Gold).
